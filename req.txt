@@ -13,4 +13,4 @@ langgraph
 langgraph-checkpoint
 langgraph-checkpoint-sqlite
 
-google-serper
+ipykernel
