@@ -1,16 +1,20 @@
 python-dotenv
-requests
-typing-extensions
+ipykernel
 ipython
-gradio
 
-langchain
 langchain-core
+langchain-openai
 langchain-community
+langchain
 langchain-groq
+langchain-mcp-adapters
 
 langgraph
-langgraph-checkpoint
 langgraph-checkpoint-sqlite
 
-ipykernel
+deepagents
+
+pydantic
+typing_extensions
+requests
+gradio
